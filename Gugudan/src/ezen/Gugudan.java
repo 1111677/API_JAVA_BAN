@@ -11,6 +11,7 @@ public class Gugudan {
 			System.out.println(2 + "*" + i + "=" + 2 * i);
 			System.out.println("1");
 			System.out.println("2");
+			System.out.println("3");
 		}
 		
 	}
